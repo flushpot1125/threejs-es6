@@ -4,8 +4,6 @@
 
 # Background
 
-以下、three.jsの記述になおすこと
-
 Basic example for ES6 and three.js. Create scene, light, and import obj model.
 
 
