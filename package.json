@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/flushpot1125/threejs-es6-test#readme",
   "dependencies": {
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
